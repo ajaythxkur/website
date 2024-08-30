@@ -1,0 +1,9 @@
+.main {
+  padding: 70px 0px;
+}
+.tech{
+  background-color: rgb(var(--foreground-rgb)) !important;
+  padding: 17px 10px;
+  margin: 0px 0px 4px 4px;
+  border-radius: 6px;
+}
